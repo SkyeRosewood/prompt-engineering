@@ -74,7 +74,7 @@ Before you hit Enter, run your prompt through P.A.C.T.:
 Role            ──────────►  Persona\
 Context & Task  ──────────►  Audience & Aim\
 Context & Task  ──────────►  Constraints\
-Structure       ──────────►  Template\
+Structure       ──────────►  Template
 
 If any of these four is missing, your score has a blank staff—fill it in.
 
